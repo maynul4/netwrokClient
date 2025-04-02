@@ -1,10 +1,11 @@
 name: network_client
 description: A simple Dart package for making network requests with platform-specific support.
-version: 1.1.2
+version: 1.2.2
 homepage: https://github.com/maynul4/netwrokClient
 
 environment:
   sdk: '>=2.19.0 <4.0.0'
+  flutter: '>=1.20.0'
 
 dependencies:
   flutter:
