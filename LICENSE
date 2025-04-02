@@ -1,0 +1,36 @@
+
+---
+
+### Explanation of Sections:
+
+1. **Title and Description:**
+   - Clearly mentions what the package does and the basic functionality it provides.
+
+2. **Features:**
+   - Lists the key features of the package.
+
+3. **Installation:**
+   - Explains how to add the package to the project via `pubspec.yaml`.
+
+4. **Usage:**
+   - Provides examples of how to use the package for different HTTP requests.
+   - Examples of `GET`, `POST`, `PUT`, `PATCH`, and `DELETE` requests.
+   - Example of how to use the `callAPIMethod` for dynamic API calls.
+
+5. **Logging:**
+   - Explains the logging functionality, which logs request initiation, response status, and errors.
+
+6. **Error Handling:**
+   - Details how the package handles errors and how errors are logged.
+
+7. **Response Example:**
+   - Shows the structure of a typical successful and error response.
+
+8. **Contributing:**
+   - Information about contributing to the project.
+
+9. **License:**
+   - Provides the license information for the package.
+
+---
+

@@ -1,8 +1,8 @@
 name: network_client
 description: A simple Dart package for making network requests (GET, POST, PATCH, PUT, DELETE.)
 version: 0.0.1
-author:  <maynulislamjibon4@gmail.com>
-#homepage: https://your-package-homepage.com
+author: <maynulislamjibon4@gmail.com>
+homepage: https://github.com/maynul4/netwrokClient  # Fixed typo here
 
 environment:
   sdk: ">=2.19.0 <3.0.0"
@@ -14,10 +14,3 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-flutter:
-  plugin:
-    platforms:
-      android:
-        package: com.networkClient.network_client
-        pluginClass: NetworkClientPlugin
