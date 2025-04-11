@@ -1,19 +1,22 @@
-# Network Client Package
+# 🛰️ network_client
 
-A simple Dart package for making network requests (GET, POST, PUT, PATCH, DELETE) with logging and error handling.
+A lightweight and developer-friendly Dart/Flutter package to handle HTTP requests (GET, POST, PUT, PATCH, DELETE) with error handling and logging built-in.
 
-## Features
+---
 
-- Easy-to-use HTTP methods: GET, POST, PUT, PATCH, DELETE
-- Automatic error handling and logging
-- Supports dynamic API calls with a single method (`callAPIMethod`)
+## ✨ Features
 
-## Installation
+- 🔁 Simplified API: `GET`, `POST`, `PUT`, `PATCH`, `DELETE`
+- 🧠 Dynamic method support via `callAPIMethod`
+- 🛡️ Built-in error handling
+- 📋 Request/response logging using `logger` package
 
-To use this package, add it to your `pubspec.yaml` file:
+---
+
+## 📦 Installation
+
+Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  network_client:
-    git:
-      url: https://github.com/maynul4/netwrokClient
+  network_client: ^1.2.3
