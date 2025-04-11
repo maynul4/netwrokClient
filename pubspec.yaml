@@ -5,7 +5,6 @@ homepage: https://github.com/maynul4/netwrokClient
 
 environment:
   sdk: '>=2.19.0 <4.0.0'
-  flutter: '>=1.20.0'
 
 dependencies:
   flutter:
