@@ -1,36 +1,21 @@
+MIT License
 
----
+Copyright (c) 2025 Maynul Islam Jibon
 
-### Explanation of Sections:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-1. **Title and Description:**
-   - Clearly mentions what the package does and the basic functionality it provides.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-2. **Features:**
-   - Lists the key features of the package.
-
-3. **Installation:**
-   - Explains how to add the package to the project via `pubspec.yaml`.
-
-4. **Usage:**
-   - Provides examples of how to use the package for different HTTP requests.
-   - Examples of `GET`, `POST`, `PUT`, `PATCH`, and `DELETE` requests.
-   - Example of how to use the `callAPIMethod` for dynamic API calls.
-
-5. **Logging:**
-   - Explains the logging functionality, which logs request initiation, response status, and errors.
-
-6. **Error Handling:**
-   - Details how the package handles errors and how errors are logged.
-
-7. **Response Example:**
-   - Shows the structure of a typical successful and error response.
-
-8. **Contributing:**
-   - Information about contributing to the project.
-
-9. **License:**
-   - Provides the license information for the package.
-
----
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

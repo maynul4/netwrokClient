@@ -1,9 +1,10 @@
 # Changelog
 
-## [0.0.1] - 2025-04-02
+## [1.2.3] - 2025-04-11
 ### Added
-- Initial release of the network_client package.
-- Implemented GET, POST, PUT, PATCH, and DELETE HTTP methods.
-- Added logging for requests and responses.
-- Created a universal API call method.
+- A simple package to handle API calls easily.
+- Basic methods to handle GET, POST, PUT, and DELETE requests.
+- File name issue solved.
+- Removed all issues.
+
 
